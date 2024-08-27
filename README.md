@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Kelechi Ibekwe
 #### Full Stack Developer
-I am a software developer based out of Canada. My favorite language is Java and outside of programming, I love soccer. 
+I am a software developer based out of Canada.
 
 Skills: Java/ Spring Boot/ JavaScript / Postgres/ NodeJS
 
