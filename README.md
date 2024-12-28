@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at: TD Bank<br>🤝 I’m working on: Building Daily Journal AI using OpenAI API & Vector embeddings<br>👯 I’m looking to collaborate on:Building scalable backends and exploring AI in software development<br>🌱 I’m currently learning: Go (to build my own versions of Docker and Git)<br>⚡ Fun fact: I’m a soccer fan (Liverpool supporter since 97)
+🔭 I’m currently working at: TD Bank<br>🤝 I’m working on: Building Daily Journal AI using OpenAI API & Vector embeddings<br>👯 I’m looking to collaborate on:Building scalable backends and exploring AI in software development<br>🌱 I’m currently learning: NodeJS <br>⚡ Fun fact: I’m a soccer fan (Liverpool supporter since 97)
 
 
 # 💻 Tech Stack:
